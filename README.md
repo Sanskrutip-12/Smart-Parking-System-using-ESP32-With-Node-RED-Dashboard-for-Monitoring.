@@ -1,2 +1,3 @@
-# Smart-Parking-System-using-ESP32-With-Node-RED-Dashboard-for-Monitoring.
-A Final Year Project that combines IoT, computer vision, and Web Development to revolutionise traditional parking with automation and real-time monitoring.
+# Video link: https://youtu.be/VQPXR0TxRlo
+
+![Your paragraph text](https://github.com/EhabMagdyy/Smart-Parking-System/assets/132620660/26c958c8-0c94-4dbf-9773-d991aa53e296)
